@@ -1,3 +1,3 @@
 # web-scraping
 Web scraping projects
-In various languages.
+In various languages e.g. Go, JavaScript, Python.
